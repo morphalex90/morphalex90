@@ -7,29 +7,18 @@
 
 ### Hello there 👋
 
-<!--
-**morphalex90/morphalex90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When I think on my early years, I have always been passionate about technology and curious about how things work.
 
-Here are some ideas to get you started:
+During high school I discovered the programming world. I started with basic HTML, then continued expanding my information in technology experience through the years. During these years I learned to create entire websites not only for myself, but for others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+From 2011 to 2015, I was part of an indie team based in Bologna, Italy (Black Raven). We developed small games and programs for iOS and PC. I was responsible for the design and development of the website and methods of database connection of the apps. As a secondary role, I also worked as a 3D modeler.
+The years spent as part of this team enhanced my programming skills and developed the dynamics of working with a team. Thanks to this experience, I have become the programmer I am today.
 
-Since my early years, I have always been passionate about technology, and curious about how things works.
+In May 2015, I was offered the opportunity to work at a web agency (Magic), where I was trained on how companies develop websites and e-commerce platforms. During my three years with the company, I expanded my knowledge of WordPress, Drupal, and Magento.
 
-During high school I discovered the programming world: first with basic HTML, then I expanded my IT background over the years until I was able to create full web sites.
+In June 2018, I moved to London to expand my knowledge and increase my English language skills.
+After a couple of months I joined Purr, a web agency based in central London. Since starting, there have been many interesting projects and new ways of building websites that I had never previously explored.
 
-From 2011 to 2015 I was part of an indie team based in Bologna, Italy (Black Raven), we developed small games and programs for Apple and PC. I was in charge of the design and the development of the website and of every methods of database connection of the apps. As a secondary role, I also worked as 3D modeller.
-The years spent as part of this team enhanced my programming knowledge and made me learn the dynamics of working as part of a team. It is thanks to this experience that I have become the programmer that I am now.
+In May 2022, I joined Soundpickr and started working with Laravel and React to build a music streaming service. Sadly this startup shut down at the end of 2023 because of lack of foundings.
 
-In May 2015 I've got the chance to finally work in a web agency (Magic) where I was trained about how companies develop websites and e-commerce platforms. Over these three years, I was able to build upon and expand my knowledge of WordPress, as well as discovering Drupal and Magento.
-
-In June 2018 I've moved to London in order to expande my knowledge and increase my english level.
-After a couple of months I joined Purr, a web agency based in central London and since then there have been lots of many interesting projects and new ways for building websites that I've never explored
+In January 2024, I joined CyberDuck (recently acquired by CACI) as a backend developer and started working mainly  on Worcester Bosch, a gigantic Laravel project.
