@@ -19,6 +19,6 @@ In May 2015, I was offered the opportunity to work at a web agency (Magic), wher
 In June 2018, I moved to London to expand my knowledge and increase my English language skills.
 After a couple of months I joined Purr, a web agency based in central London. Since starting, there have been many interesting projects and new ways of building websites that I had never previously explored.
 
-In May 2022, I joined Soundpickr and started working with Laravel and React to build a music streaming service. Sadly this startup shut down at the end of 2023 because of lack of foundings.
+In May 2022, I joined Soundpickr and started working with Laravel and React to build a music streaming service. Sadly this startup shut down at the end of 2023.
 
 In January 2024, I joined CyberDuck (recently acquired by CACI) as a backend developer and started working mainly  on Worcester Bosch, a gigantic Laravel project.
