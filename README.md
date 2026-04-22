@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
+<img src="https://github.com/morphalex90/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/morphalex90/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/morphalex90/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/morphalex90/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
 </div>
 
 ### Hello there 👋
